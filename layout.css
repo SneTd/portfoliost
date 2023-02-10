@@ -1,0 +1,39 @@
+#wrapper {
+	width: 1330px;
+	background-image: url(images/325369473_2061933634001136_4656536742377444143_n.gif);
+	background-repeat: repeat;
+}
+#wrapper #header {
+	font-size: 60px;
+	text-align: center;
+}
+#wrapper #menu ul li {
+	float: left;
+	list-style-type: none;
+}
+#wrapper #menu ul li a {
+	display: block;
+	padding: 20px;
+	font-size: 24px;
+}
+#wrapper #main {
+}
+
+#footer {
+	float: left;
+	width: 830px;
+	background-color: #CCC;
+}
+#wrapper #sidebar p a {
+
+
+}
+
+#sidebar {
+	float: right;
+	width: 500px;
+	background-color: #CCC;
+}
+#wrapper #footer p {
+	padding-left: 5px;
+}
